@@ -10,6 +10,9 @@ const spaceGrotesk = Space_Grotesk({ subsets: ['latin'], variable: '--font-space
 export const metadata: Metadata = {
   title: 'Karabo Oliphant | Premium Web Development',
   description: 'Premium builds. Lightning-fast delivery. Web development services by Karabo Oliphant.',
+  icons: {
+    icon: 'https://i.postimg.cc/DwTd41V0/output-onlinepngtools-(1).png'
+  },
 }
 
 export const viewport: Viewport = {
